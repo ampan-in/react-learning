@@ -1,0 +1,78 @@
+.customer {
+    margin: auto;
+    padding: auto;
+    border: solid 2px greenyellow;
+    border-radius: 5%;
+    text-align: center;
+    height: 320px; 
+    width: 640px;
+}
+
+.page-title {
+    margin: 5px;
+    /* border: solid 1px skyblue; */
+    height: auto;
+    width: auto;
+}
+
+.page-body {
+    margin: 5px;
+    /* border: solid 1px orange; */
+    border-radius: 5%;
+    text-align: center;
+    margin-top: 10px;
+    height:  200px;
+    width: 620px;
+}
+
+.page-photo{
+    margin: 5px;
+    display: flex;
+    flex-direction: row;
+    border: solid 3px blue;
+    border-radius: 30%;
+    height: auto; 
+    width: 72px;
+}
+
+.username{
+    margin: 0;
+    /* display: flex; */
+    /* flex-direction: column; */
+    border: solid 1px wheat;
+    margin-left: 40px;
+    font-size: 22px;
+    width: 100%;
+}
+
+.header{
+    margin: 5px;
+    /* border: solid 1px salmon; */
+    width: 100%;
+}
+.info{
+    margin: 0;
+    width: auto;
+}
+
+.activity{
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    /* border: solid 1px green; */
+    margin-left: 30px;
+    font-size: 14px;
+    width: 100%;
+}
+.createat{
+    display: flex;
+    flex-direction: row;
+    margin-left: 20px;
+    width: 100%;
+}
+.status{
+    display: flex;
+    flex-direction: row;
+    margin-left: 24px;
+    width: auto;
+}
